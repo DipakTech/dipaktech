@@ -1,5 +1,5 @@
-VISITORS 
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![Visitor Count](https://profile-counter.glitch.me/{dipaktech}/count.svg)
+========
 Hi 👋 My name is Dipak Giri
 ===========================
 
