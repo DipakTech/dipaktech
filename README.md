@@ -6,6 +6,10 @@ Hi 👋 My name is Dipak Giri
 Web Developer
 -------------
 
+### Daily DEV
+-------------
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
 I called myself as a polite and calm who often used his free time by learning something new technology.
 
 * 🌍  I'm based in Kathmandu,Nepal
@@ -58,6 +62,5 @@ src="https://img.shields.io/github/followers/dipaktech?logo=github&style=for-the
 
 <a href="https://github.com/dipaktech" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaktech&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
