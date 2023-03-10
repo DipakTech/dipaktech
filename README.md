@@ -8,7 +8,7 @@ Web Developer
 
 ### Daily DEV
 -------------
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/dipaktech/dipaktech/blob/main/devcard.svg" width="400" alt="dipaktech's Dev Card"/></a>
 
 I called myself as a polite and calm who often used his free time by learning something new technology.
 
