@@ -1,22 +1,17 @@
 ![Visitor Count](https://profile-counter.glitch.me/{dipaktech}/count.svg)
 ========
-Hi 👋 My name is Dipak Giri
+Hi 👋 My name is Dipak Giri -Web Developer
 ===========================
-
-Web Developer
--------------
 
 ### Daily DEV
 -------------
 <a href="https://app.daily.dev/Dipakgiri"><img src="https://github.com/dipaktech/dipaktech/blob/main/devcard.svg" width="400" alt="dipaktech's Dev Card"/></a>
 
-I called myself as a polite and calm who often used his free time by learning something new technology.
+I called myself as a polite and calm who often used his free time to learn something new technology.
 
 * 🌍  I'm based in Kathmandu,Nepal
-* 🖥️  See my portfolio at [Dipak giri](http://dipakgiree.com.np)
+* 🖥️  See my portfolio at [Dipak giri](http://dipakgiri12.com.np)
 * ✉️  You can contact me at [dipakgiri1200@gmail.com](mailto:dipakgiri1200@gmail.com)
-* 🚀  I'm currently working on [personal portfolio site](http://dipakgiree.com.np)
-* 🧠  I'm learning react redux
 
 <a href="https://www.twitter.com/Dipakgirii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Dipakgirii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
